@@ -7,3 +7,18 @@ SphereBotWheelsDone.rsdoc
 4/10/2015
 creating git repository and adding SphereBotWheelsDone.rsdoc to new folder CAD_Drawings
 I expect this project to grow large enough to need source control
+
+Should probably add the features I want to implement:
+
+So this is intended to be the first in a series of machines that can change shape and by doing so, function
+This is also a test run with design spark mechanical which I am not disappointed in at all so far. It's a godsend for a free CAD program.
+
+Anyway:
+
+feature list:
+
+	--- initial form a sphere **
+	--- "wheels" each equal subsections of sphere **
+	--- "wheels" should extend out and change angle straight before engaging.
+	--- circuit must be designed to probably work over bluetooth or something to that effect too take commands about mode and 
+	    function
