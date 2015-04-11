@@ -22,3 +22,11 @@ feature list:
 	--- "wheels" should extend out and change angle straight before engaging.
 	--- circuit must be designed to probably work over bluetooth or something to that effect too take commands about mode and 
 	    function
+
+UPDATE:
+
+Found a potentially suitable linear actuator (as in, one small enough for this application... maybe)
+that also provided a useful cad file:
+
+STEPPER MOTOR LINEAR ACTUATOR LC SERIES 15mm:
+http://www.haydonkerk.com/?TabId=86
