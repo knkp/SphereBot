@@ -1,0 +1,9 @@
+4/9/2015
+SphereBotWheelsDone.rsdoc
+-- radius: 75mm
+-- added 12V DC motors to wheels, next need to add some method
+   for wheel actuators...
+
+4/10/2015
+creating git repository and adding SphereBotWheelsDone.rsdoc to new folder CAD_Drawings
+I expect this project to grow large enough to need source control
